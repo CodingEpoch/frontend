@@ -105,3 +105,16 @@ a {
     color-scheme: dark;
   }
 }
+
+.mainC{
+  color: blue;
+}
+.secondaryC{
+  color: green;
+}
+.mainBC{
+  background-color: blue;
+}
+.secondaryBC{
+  background-color: green;
+}
